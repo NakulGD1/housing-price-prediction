@@ -51,9 +51,8 @@ Example result format:
   'Decision Tree': 52000,
   'Random Forest': 31000
 }
-
-
 The model with the lowest RMSE was selected as the best performer.
+
 🗂️ Repository Structure
 
 ├── House Price Prediction.ipynb
